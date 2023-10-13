@@ -28,3 +28,9 @@ https://www.kaggle.com/code/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-compe
 auxiliray data分析使用 chengyang&zhongxian</br>
 feature engineering, model compare, blend model  zhengtao</br>
 
+### 10.13讨论
+1.利用额外数据（房子和地铁站之间距离作为权重，便利&噪音）</br>
+
+2.correlation相关性分析（确定数据如何变换）</br>
+
+3.模型继续改进调参</br>
